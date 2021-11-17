@@ -1,0 +1,162 @@
+body {
+    background-color: #2a4429d5;
+   padding-left: 10px
+}
+
+ h1 {
+   color: #F2FFB0;
+   font-weight: lighter;
+   Text-decoration: line-through 2px ; 
+   font-size: 500% ;
+   padding-top: 1px;
+   padding-left: 5px;
+   font-family: "Cormorant Garamond"
+ }
+
+.hometext {
+   color: #F2FFB0;
+   font-weight: lighter;
+   font-family: "Cormorant Garamond";
+   float: right
+ }
+
+
+.navmenu {
+   margin: 0em;
+   display: flex; 
+   align-items: flex-start;
+   opacity:.5;
+   list-style-type: none;
+   overflow: hidden;
+   display: flex;
+   align-items: space-around;
+   font-family: "Cormorant Garamond";
+   text-decoration: none;
+   font-size:180%;
+   padding: 5px;
+   padding-left: 10px;
+   padding-right: 45px;
+   display:block;
+   border-left: 2px solid;
+}
+
+button {
+   margin-top: 15px;
+   margin-right: 1px;
+   margin-left: 10px;
+   background-color: #2a4627; 
+   border-style: none;
+   }
+
+a:link {
+   color: floralwhite;
+ }
+
+ a:visited{
+   color: floralwhite;
+ }
+ 
+ a:hover {
+   color: rgb(255, 207, 119);
+   text-decoration: none;
+ }
+
+
+ #headerimg {
+     float: right;
+     display: flex;
+     justify-content: right;
+     padding: 10px
+ }
+
+.words {
+    color: floralwhite
+}
+
+img {
+    float: right;
+    background-color: rgba(255, 250, 240, 0.295);
+    border-radius: 30px;
+    width: 300px;
+    height: 400px;
+}
+
+#license {
+    float:right
+}
+
+
+h4 {
+  color: #F2FFB0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+p {
+  color: rgba(255, 250, 240, 0.712);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+h3 {
+  color:#f8ffd6;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+h2 {
+  color:#f8ffd6;
+  display: flex;
+  justify-content: center;
+  align-content: center; 
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+h5 {
+  color: rgba(255, 250, 240, 0.89);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+h6 {
+  color: rgba(255, 250, 240, 0.63);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+
+
+.quicklink {
+  display: flex; 
+  justify-content: center;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+.citations {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style-type: space;
+}
+
+.words {
+  display: flex;
+  justify-content: center;
+  align-content: center
+}
+
+.miniheader {
+  font-weight: bold;
+}
